@@ -1,0 +1,9 @@
+Manufacturer=GeneSiC Semiconductor
+PartNumber=KBPC3510W
+PartCategory=Bridge Rectifier
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2018-08-07 09:15:45
+Downloaded=2023-05-19 11:01:35
+3D=N

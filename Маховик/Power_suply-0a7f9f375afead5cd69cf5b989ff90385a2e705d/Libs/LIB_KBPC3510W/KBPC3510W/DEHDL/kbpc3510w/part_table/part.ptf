@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KBPC3510W'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "GeneSiC Semiconductor", "KBPC3510W" (!) = "", "KBPCW", "Other", "905-KBPC3510W", "https://www.mouser.co.uk/ProductDetail/GeneSiC-Semiconductor/KBPC3510W?qs=PqIQM5sBnRUmuCaxYyxxnw%3D%3D", "", "", "Bridge Rectifiers 1000V 35A Standard", "http://www.mouser.com/datasheet/2/169/kbpc3506tw_thru_kbpc3510tw-270334.pdf"
+END_PART
+
+END.
